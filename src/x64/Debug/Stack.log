@@ -1,0 +1,3 @@
+﻿  main.cpp
+F:\Uniii\Github Repositories\Stack-Implementation\src\stack.h(53): warning C4715: 'Stack<int>::pop': not all control paths return a value
+  Stack.vcxproj -> F:\Uniii\Github Repositories\Stack-Implementation\src\x64\Debug\Stack.exe
